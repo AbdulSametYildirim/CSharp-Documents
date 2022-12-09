@@ -1,0 +1,91 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Master.Master.cs" Inherits="EnglishWords.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+ 	<meta charset="utf-8" lang="tr">
+ 	<title>ingilizce Kelime Öğreniyorum</title>
+ 	<link rel="stylesheet" type="text/css" href="~/css/sifirla.css">
+ 	<link rel="stylesheet" type="text/css" href="~/css/bootstrap.min.css">
+ 	<link rel="stylesheet" type="text/css" href="~/css/style.css">
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8
+    	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+ 
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <body>
+<div class="container-fluid">
+    <header class="menum row">
+
+        
+
+            <div class="menu-kapsayan">
+                <a href="default.aspx">
+                    <div class="logo">
+                        <img src="img/logo1.png" class="logo2">
+                    </div>
+                </a>
+
+
+                <div class="menuler">
+                    <ul>
+                       <li><a href="default.aspx">Anasayfa</a></li>
+                        <li><a href="hakkimizda.aspx">Hakkımızda</a></li>
+                        <li><a href="gizlilik.aspx">Gizlilik Politikası</a></li>
+                    
+                          <asp:Panel ID="pnl_girisyap" runat="server">
+                        <li><a href="giris.aspx">Giriş Yap</a></li>     </asp:Panel>
+                   
+                          
+                            <asp:Panel ID="pnl_kayitol" runat="server">
+                                     <li>
+                            <a href="kayitol.aspx">Kayıt Ol</a></li>
+                            </asp:Panel>
+
+
+                               <asp:Panel ID="pnl_kelimeler" runat="server">
+                                     <li>
+                            <a href="kelimeler.aspx">Kelimeler</a></li>
+                            </asp:Panel>
+
+
+                        
+                               <asp:Panel ID="pnl_rapor" runat="server">
+                                     <li>
+                            <a href="rapor-deneme.aspx">Rapor Al</a></li>
+                            </asp:Panel>
+
+
+                    </ul>
+                </div>
+            </div>
+
+      
+    </header>
+
+    <div class="icerik row">
+
+
+    <form id="form1" runat="server">
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+
+            
+</div></div>
+ <div class="alt">
+
+<div class="alt-soz-sol">İngilizce Kelime Öğrenme 2022 </div>
+
+<div class="alt-soz-sag">“İnsanların en hayırlısı, insanlara faydalı olandır”. H.Ş.</div>
+
+ </body>
+
+ </html>
+

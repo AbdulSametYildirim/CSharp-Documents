@@ -1,0 +1,100 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="admin.master.cs" Inherits="EnglishWords.admin" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <title>Admin Paneli</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+ 	<link rel="stylesheet" type="text/css" href="~/css/sifirla.css">
+ 	<link rel="stylesheet" type="text/css" href="~/css/bootstrap.min.css">
+ 	<link rel="stylesheet" type="text/css" href="~/css/admin-style.css">
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+
+      
+
+<header class="menum row"> 
+
+  <div class="container menuduzen">
+
+<div class="menu-kapsayan">
+
+  <div class="logo"><a href="admin.aspx"><img src="img/admin-logo.png"  class="logo2"></a></div>
+
+  
+
+
+
+</div>
+
+</div></div>
+
+ </header>
+    <div class="icerik">
+
+  
+  
+<div class="icerik-menuler  ">
+<div class="menuler">
+
+      <ul>
+
+        <li><img src="../img/home-solid.png"  class="menu-icon"><a href="default.aspx">Anasayfa</a></li>
+
+
+        <li><img src="img/book-solid.png"  class="menu-icon"><a href="admin-kelimeler.aspx">Kelimeler</a></li>
+
+      </ul>
+
+
+
+  </div></div>
+
+
+<div class="icerik-icerik col-10">
+
+  <div class="uye-panel" style="
+
+">
+  
+      <ul>
+
+
+        <li><a href="uyeler.php">Üyelik Ayarları</a></li>
+
+        <li><a href="cikis.php">Çıkış  Yap</a></li>
+
+      </ul>
+
+</div>
+
+
+
+    <form id="form1" runat="server">
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+
+    
+</div></div>
+ <div class="alt">
+
+<div class="alt-soz-sol">İngilizce Kelime Öğrenme 2022 </div>
+
+<div class="alt-soz-sag">“İnsanların en hayırlısı, insanlara faydalı olandır”. H.Ş.</div>
+
+ </body>
+
+ </html>
+
