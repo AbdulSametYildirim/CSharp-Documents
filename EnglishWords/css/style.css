@@ -1,0 +1,699 @@
+﻿body {
+    background-color: rgba(0, 0, 0, .1);
+    width: 100%;
+}
+
+
+.icerik {
+    background-size: 100% 100%;
+    height: 700px;
+    background-image: url("../img/bg.jpg");
+}
+
+.baslik {
+    color: #ffffff;
+    font-size: 50px;
+    font-weight: 400;
+    text-align: center;
+    letter-spacing: 3px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    line-height: 1.1;
+}
+
+
+.aciklama {
+    color: #fff;
+    font-size: 22px;
+    font-weight: 300;
+    text-align: center;
+    letter-spacing: 1px;
+    line-height: 28px;
+    margin-bottom: 20px;
+}
+
+
+.son-eklenenler-baslik {
+    margin-top: 30px;
+    color: #fff;
+    font-size: 35px;
+    font-weight: 300;
+    text-align: left;
+    letter-spacing: 1px;
+    line-height: 28px;
+    margin-bottom: 20px;
+    background-color: #689bd2;
+    width: fit-content;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.duzen {
+    margin-left: 200px;
+}
+
+
+
+
+.arama-forumu {
+    float: right;
+    width: 200px;
+}
+
+
+.arama-resim {
+    margin-top: 3px;
+    margin-left: 10px;
+    float: right;
+    border: none;
+}
+
+
+
+
+.sol {
+    margin-left: 30px;
+}
+
+.kayit-baslik {
+    margin-top: 30px;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    margin-bottom: 35px;
+}
+
+.kayit {
+    margin-top: 40px;
+    min-height: 400px;
+    margin-right: 30px;
+    background-color: #689bd2;
+    ;
+    border-radius: 15%;
+}
+
+.kayit-resim {
+    width: 310px;
+    margin-bottom: 15px;
+}
+
+
+
+.kayit-kisa-icerik {
+    margin-bottom: 30px;
+    color: white;
+    margin-top: 10px;
+}
+
+.kayit-tarih-yazar {
+    margin-left: 10px;
+    margin-bottom: 30px;
+    color: white;
+}
+
+}
+
+
+
+.kayit-kisa-icerik a {
+    color: white;
+}
+
+.sari {
+    background-color: yellow;
+    min-width: 500px;
+    min-height: 500px;
+    float: left;
+}
+
+
+
+.mavi {
+    background-color: green;
+    min-width: 500px;
+    min-height: 500px;
+    float: left;
+}
+
+.arkaplan {
+    max-width: 100%;
+}
+
+.gunes {
+    text-align: center;
+    margin-top: 115px;
+}
+
+.menum {
+    padding: 16px;
+    background-color: #212529;
+}
+
+.arama-kutusu {
+    padding-left: 10px;
+    float: right;
+    width: 150px;
+    border-radius: 15px;
+}
+
+.mobil-menu {
+    float: right;
+    display: none;
+}
+
+.menu-kapsayan {
+    height: 40px !important;
+}
+
+.kapsayan {
+    margin-top: 65px;
+}
+
+
+
+.arama {
+    margin-top: 7px;
+    width: 200px;
+    height: 40px;
+    float: right;
+}
+
+.logo {
+    width: 300px;
+    height: 40px;
+    float: left;
+}
+
+.menuler {
+    width: auto;
+    height: 39px;
+    float: right;
+}
+
+
+
+    .menuler ul {
+        list-style: none;
+        margin-top: 8px;
+        margin-bottom: 8px;
+    }
+
+        .menuler ul li a {
+            text-decoration: none;
+            color: #fff;
+        }
+
+        .menuler ul li {
+            color: #fff;
+            float: left;
+            padding-right: 8px;
+            padding-left: 8px;
+            font-size: 18px;
+            font-weight: 400;
+            line-height: 1.5;
+        }
+
+
+
+.container {
+    max-width: 1150px;
+}
+
+
+
+.container {
+    width: 100%;
+}
+
+
+
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+
+
+
+input:focus::-webkit-input-placeholder {
+    color: transparent;
+}
+
+input:focus {
+    outline: 0;
+}
+
+
+
+.logo1 {
+    height: 40px;
+    width: 100px;
+    float: left;
+}
+
+
+
+.logo2 {
+    margin-bottom: -2px;
+    padding-top: 2px;
+    height: 46px;
+    width: auto;
+    float: left;
+}
+
+.aciklama {
+    margin-top: 30px;
+}
+
+
+
+.bolum-arama {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    box-shadow: none !important;
+}
+
+
+
+
+
+.bolumler {
+    border-radius: 20px;
+    outline-width: 0;
+    height: 40px;
+    background-color: #fae00a;
+    color: #4f40ff;
+    font-weight: bold;
+}
+
+.dallar {
+    margin-left: 10px;
+    border-radius: 20px;
+    outline-width: 0;
+    height: 40px;
+    background-color: #fae00a;
+    color: #4f40ff;
+    font-weight: bold;
+}
+
+.bolum-ara {
+    margin-left: 10px;
+    border-radius: 20px;
+    outline-width: 0;
+    height: 40px;
+    background-color: #fae00a;
+    color: #4f40ff;
+    font-weight: bold;
+}
+
+
+
+.button:focus {
+    box-shadow: none !important;
+}
+
+
+
+.son-eklenenler-baslik {
+    color: #fff;
+    font-size: 30px;
+    font-weight: 300;
+    /* text-align: center; */
+
+    letter-spacing: 1px;
+    line-height: 28px;
+    margin-bottom: 20px;
+}
+
+.alt {
+    min-height: 82px;
+    background: #222;
+    color: #fff;
+    border-top: 1px solid #444;
+}
+
+.alt-soz-sol {
+    float: left;
+    text-align: left;
+    margin-top: 25px;
+    color: #999;
+    margin-left: 50px;
+    font-size: 14px;
+}
+
+.alt-soz-sag {
+    float: right;
+    text-align: right;
+    margin-top: 25px;
+    color: #999;
+    margin-right: 50px;
+    font-size: 14px;
+}
+
+
+.iletisim-text {
+    margin-top: 10px;
+    padding-left: 10px;
+    border-radius: 10px;
+    height: 38px;
+    margin-bottom: 30px;
+    width: 100%;
+}
+
+.iletisim-textarea {
+    margin-top: 10px;
+    padding-left: 10px;
+    border-radius: 10px;
+    height: 250px;
+    margin-bottom: 30px;
+    width: 100%;
+}
+
+.yazi-icerik {
+    padding-right: 40px;
+    margin-top: 30px;
+}
+
+    .yazi-icerik label {
+        font-size: larger;
+    }
+
+.mesaj {
+    margin-bottom: 30px;
+    font-size: 20px;
+    text-align: center;
+    background-color: lightgreen;
+    height: 35px;
+}
+
+.mesaj-red {
+    margin-bottom: 30px;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    background-color: red;
+    height: 35px;
+}
+
+
+.giris-input {
+    width: 80%;
+    /* margin: auto; */
+    margin-left: 10%;
+    margin-bottom: 20px;
+}
+
+.giris-alt {
+    width: 80%;
+    height: 50px;
+    /* margin: auto; */
+    color: white;
+    margin-left: 10%;
+    margin-top: 20px;
+}
+
+    .giris-alt a {
+        text-decoration: none;
+        color: white;
+    }
+
+.giris-alt-sol {
+    float: left;
+}
+
+.giris-alt-sag {
+    float: right;
+}
+
+
+.form {
+    width: 500px;
+    background-color: #6f92dc;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.giris-h1 {
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.icerikler {
+    background-color: white;
+    margin-right: 30px;
+    padding-bottom: 30px;
+}
+
+.yazi-resmi-0 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.yazi-resmi-1 {
+    width: 150px;
+}
+
+.yazi-resmi-2 {
+    logo2 .png" style=" width: 359px;
+    margin-top: 18px;
+}
+
+.yazi-icerik {
+    font-size: 18px;
+    padding-right: 40px;
+}
+
+.yazi-resmi-kayit {
+    width: 100%;
+}
+
+.yazi-kategori {
+    float: left;
+    margin-left: 10px;
+    background-color: black;
+    width: fit-content;
+    color: white;
+}
+
+.yazi-bilgi {
+    float: left;
+    width: fit-content;
+    background-color: black;
+    width: fit-content;
+    color: white;
+    margin-left: 20px;
+}
+
+.yazi-baslik {
+    color: white;
+    margin-left: 10px;
+    font-size: 33px;
+    background-color: #636368;
+    width: fit-content;
+    margin-bottom: 30px;
+}
+
+.sidebar {
+    position: sticky;
+    top: 0;
+    background-color: white;
+    padding-bottom: 20px;
+    height: fit-content;
+}
+
+.sidebar-baslik {
+    margin-top: 10px;
+    text-align: center;
+    font-size: 22px;
+    background-color: lightblue;
+    color: white;
+    padding-bottom: 4px;
+}
+
+.sidebar-icerik {
+    background-color: lightblue;
+    margin-top: 20px;
+}
+
+    .sidebar-icerik a {
+        text-decoration: none;
+    }
+
+.sidebar-yazi-baslik {
+    color: white;
+    font-size: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    width: fit-content;
+}
+
+.slider-resmi {
+    width: 100%;
+    padding: 5%;
+}
+
+.giris-yap {
+    position: relative;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+ 
+    background: #8ca4c2;
+    padding: 30px;
+    border-radius: 15px;
+   
+}
+
+.giris-yap-label{
+
+}
+
+.giris-yap-textbox {
+    position: absolute;
+    left: 150px;
+}
+
+.giris-yap-buton {
+    position: absolute;
+    margin-top: 20px;
+    left: 150px;
+}
+
+ul div {
+    display: contents;
+}
+
+.kelimeler-kutusu {
+    height: 325px;
+    position: relative;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    background: #8ca4c2;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 20px rgb(0 0 0 / 50%), -10px -10px 20px rgb(88 88 88 / 50%);
+}
+
+.kelimeler-baslik{
+    color:white;
+}
+
+.kelimeler-soru {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    background-color: white;
+    height: 33px;
+    padding-top: 4px;
+}
+
+.kelimeler-cevap1 {
+    float: left;
+    width: 100px;
+    background-color: white;
+    height: 30px;
+    border-radius: 10px;
+}
+
+.kelimeler-cevap2 {
+    float: left;
+    width: 100px;
+    background-color: white;
+    height: 30px;
+    border-radius: 10px;
+    margin-left: auto;
+}
+
+.kelimeler-cevap3 {
+    float: left;
+    width: 100px;
+    background-color: white;
+    height: 30px;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+.kelimeler-cevap4 {
+    float: left;
+    width: 100px;
+    background-color: white;
+    height: 30px;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-top: 30px;
+}
+
+.kelimeler-gonder {
+    margin-top: 30px;
+    float: left;
+    width: 100px;
+    background-color: white;
+    height: 30px;
+    border-radius: 10px;
+    margin-left: 95px;
+}
+
+.kelimeler-cevap2 input {
+    background-color: transparent;
+    border: 0px;
+    /* padding-left: 20px; */
+    padding-right: 20px;
+    margin-left: -10px;
+    width: 122px;
+    text-align: left;
+}
+
+.kelimeler-cevap1 input {
+    background-color: transparent;
+    border: 0px;
+    /* padding-left: 20px; */
+    padding-right: 20px;
+    margin-left: -10px;
+    width: 122px;
+    text-align: left;
+}
+
+
+.kelimeler-cevap3 input {
+    background-color: transparent;
+    border: 0px;
+    /* padding-left: 20px; */
+    padding-right: 20px;
+    margin-left: -10px;
+    width: 122px;
+    text-align: left;
+}
+
+
+.kelimeler-cevap4 input {
+    background-color: transparent;
+    border: 0px;
+    /* padding-left: 20px; */
+    padding-right: 20px;
+    margin-left: -10px;
+    width: 122px;
+    text-align: left;
+}
+
+
+
+.kelimeler-gonder input {
+ 
+    background-color: transparent;
+    border: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: -10px;
+
+
+}
+

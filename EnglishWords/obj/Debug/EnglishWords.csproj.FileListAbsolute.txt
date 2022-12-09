@@ -1,0 +1,280 @@
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\EnglishWords.dll.config
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\EnglishWords.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\EnglishWords.pdb
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\roslyn\csc.exe
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\roslyn\csc.exe.config
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\roslyn\csc.rsp
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\roslyn\csi.exe
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\roslyn\csi.exe.config
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\roslyn\csi.rsp
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.AppContext.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.Console.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.IO.Compression.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.Net.Http.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.ValueTuple.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\roslyn\vbc.exe
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\roslyn\vbc.exe.config
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\roslyn\vbc.rsp
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\obj\Debug\EnglishWords.csproj.AssemblyReference.cache
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\obj\Debug\EnglishWords.csproj.CoreCompileInputs.cache
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\obj\Debug\EnglishWords.csproj.CopyComplete
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\obj\Debug\EnglishWords.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\obj\Debug\EnglishWords.pdb
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\Microsoft.ReportViewer.Design.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\Microsoft.SqlServer.Types.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\EnvDTE.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\stdole.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\Microsoft.MSXML.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\obj\Debug\RdlCompile.cache
+C:\Users\ASametYildirim\source\repos\EnglishWords\EnglishWords\obj\Debug\RdlCompile.compiled
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\SqlServerTypes\x64\msvcr120.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\SqlServerTypes\x86\msvcr120.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\EnglishWords.dll.config
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\EnglishWords.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\EnglishWords.pdb
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\roslyn\csc.exe
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\roslyn\csc.exe.config
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\roslyn\csc.rsp
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\roslyn\csi.exe
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\roslyn\csi.exe.config
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\roslyn\csi.rsp
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\roslyn\Microsoft.Managed.Core.targets
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.AppContext.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.Collections.Immutable.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.Console.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.Globalization.Calendars.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.IO.Compression.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.IO.FileSystem.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.Net.Http.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.Net.Sockets.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.Reflection.Metadata.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.ValueTuple.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.Xml.XmlDocument.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.Xml.XPath.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\roslyn\vbc.exe
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\roslyn\vbc.exe.config
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\roslyn\vbc.rsp
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\roslyn\VBCSCompiler.exe
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\roslyn\VBCSCompiler.exe.config
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\Microsoft.ReportViewer.Common.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\Microsoft.ReportViewer.DataVisualization.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\Microsoft.ReportViewer.Design.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\Microsoft.ReportViewer.WebDesign.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\Microsoft.ReportViewer.WebForms.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\Microsoft.SqlServer.Types.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\EnvDTE.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\Microsoft.VisualStudio.Shell.Interop.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\Microsoft.ReportViewer.WinForms.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\stdole.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\Microsoft.VisualStudio.OLE.Interop.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\Microsoft.MSXML.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\de\Microsoft.ReportViewer.Common.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\es\Microsoft.ReportViewer.Common.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\it\Microsoft.ReportViewer.Common.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\de\Microsoft.ReportViewer.Design.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\es\Microsoft.ReportViewer.Design.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\it\Microsoft.ReportViewer.Design.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\obj\Debug\EnglishWords.csproj.AssemblyReference.cache
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\obj\Debug\EnglishWords.csproj.CoreCompileInputs.cache
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\obj\Debug\EnglishWords.csproj.CopyComplete
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\obj\Debug\EnglishWords.dll
+D:\eski\c-den kalanlar\source\repos\EnglishWords\EnglishWords\obj\Debug\EnglishWords.pdb

@@ -1,0 +1,338 @@
+﻿body {
+    background-color: rgba(0, 0, 0, .1);
+    width: 100%;
+}
+
+.icerik {
+    height: auto;
+    width: 100%;
+    display: flex;
+}
+
+
+.menum {
+    padding: 16px;
+    background-color: #353a40;
+}
+
+.mobil-menu {
+    float: left;
+}
+
+.menu-kapsayan {
+    height: 40px !important;
+}
+
+
+.logo {
+    height: 40px;
+    float: left;
+}
+
+.menuler {
+    padding-right: 20px;
+    height: 39px;
+    float: left;
+}
+
+
+    .menuler ul {
+        padding-left: 15px;
+        list-style: none;
+        margin-top: 30px;
+        margin-bottom: 8px;
+    }
+
+        .menuler ul li a {
+            text-decoration: none;
+            color: #fff;
+            padding-left: 10px;
+        }
+
+        .menuler ul li {
+            color: #fff;
+            padding-right: 8px;
+            padding-bottom: 15px;
+            font-size: 18px;
+            font-weight: 400;
+            line-height: 1.5;
+        }
+
+
+
+.container {
+    width: 100%;
+}
+
+
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+input:focus::-webkit-input-placeholder {
+    color: transparent;
+}
+
+input:focus {
+    outline: 0;
+}
+
+
+.logo1 {
+    height: 40px;
+    width: 100px;
+}
+
+
+.logo2 {
+    margin-bottom: -2px;
+    padding-top: 5px;
+    height: 35px;
+    width: 200px;
+}
+
+.alt {
+    min-height: 35px;
+    background: #222;
+    color: #fff;
+    border-top: 1px solid #444;
+}
+
+.alt-soz-sol {
+    float: left;
+    text-align: left;
+    margin-top: 5px;
+    color: #999;
+    margin-left: 50px;
+    font-size: 14px;
+}
+
+.alt-soz-sag {
+    float: right;
+    text-align: right;
+    margin-top: 5px;
+    color: #999;
+    margin-right: 50px;
+    font-size: 14px;
+}
+
+.table-dark {
+    margin-left: 30px;
+}
+
+tbody {
+    margin-top: 50px;
+    margin-left: 99px;
+    position: absolute;
+}
+
+
+.icerik-menuler {
+    background-color: #212429;
+    float: left;
+    height: auto;
+    width: auto;
+}
+
+
+
+.icerik-icerik {
+    float: left;
+    height: auto;
+    min-height: 600px;
+}
+
+.menu-icon {
+    margin-top: -7.8px;
+    max-width: 19px;
+    height: 25px;
+}
+
+.dt-bilgi {
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top: -30px;
+    margin-bottom: 60px;
+}
+
+.dt-bilgi-ad {
+    float: left;
+}
+
+.dt-bilgi-tarih {
+    float: right;
+}
+
+.dt-cevap {
+    min-height: 150px;
+    width: auto;
+    background-color: lightblue;
+    margin-top: 30px;
+    color: white;
+    padding: 30px;
+    font-size: 22px;
+    padding-bottom: 60px;
+}
+
+.sss-bilgi {
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    /* margin-top: -30px; */
+
+    z-index: 1000;
+    background-color: lightblue;
+    height: 27px;
+}
+
+.gizli {
+    display: none;
+}
+
+
+
+.menu-uye {
+    margin-right: 10px;
+    float: right;
+}
+
+
+.menu-bildirim {
+    margin-right: -13px;
+    float: right;
+}
+
+.bildirim-sayac {
+    line-height: 20px;
+    float: right;
+    margin-top: 28px;
+    padding-right: -1px;
+    color: white;
+    border-radius: 15px;
+    background-color: #e64848;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+}
+
+.uye-panel {
+    background-color: #353a40;
+    width: fit-content;
+    float: right;
+    padding-right: 30px;
+    padding-top: 10px;
+    margin-right: -15px;
+    display: none;
+}
+
+    .uye-panel ul {
+        list-style: none;
+    }
+
+    .uye-panel li a {
+        text-decoration: none;
+        color: white;
+        background-color: #353a40;
+    }
+
+.panel-kutu {
+    text-align: center;
+    background-color: #6f92dc;
+    color: white;
+    font-size: 23px;
+    margin-left: 35px;
+    margin-top: 50px;
+}
+
+.h3-admin {
+    float: left;
+    text-align: left;
+}
+
+.h3-admin-2 {
+    float: right;
+    text-align: right;
+}
+
+
+.dt-baslik {
+    height: 50px;
+    width: auto;
+    background-color: lightblue;
+    color: white;
+    font-size: 28px;
+    border-radius: 42px;
+    padding-left: 30px;
+    padding-right: 30px;
+    float: left;
+}
+
+.dt-aciliyet {
+    float: left;
+    width: auto;
+    height: 50px;
+    background-color: lightblue;
+    margin-left: 100px;
+    color: white;
+    font-size: 28px;
+    border-radius: 42px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.dt-icerik {
+    min-height: 250px;
+    width: auto;
+    background-color: lightblue;
+    margin-top: 70px;
+    color: white;
+    padding: 30px;
+    font-size: 22px;
+}
+
+.sss-txt {
+    height: 50px;
+    width: auto;
+    background-color: lightblue;
+    color: white;
+    font-size: 28px;
+    border-radius: 42px;
+    padding-left: 30px;
+    padding-right: 30px;
+    float: left;
+}
+
+.sss-aciliyet {
+    float: left;
+    width: auto;
+    height: 50px;
+    background-color: lightblue;
+    margin-left: 100px;
+    color: white;
+    font-size: 28px;
+    border-radius: 42px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.kelime-ekle {
+    position: relative;
+    margin-top: 40px;
+    left: 200px;
+}
+
+.giris-yap-textbox {
+    position: absolute;
+    left: 150px;
+}
+
+.giris-yap-buton {
+    position: absolute;
+    margin-top: 20px;
+    left: 150px;
+}
